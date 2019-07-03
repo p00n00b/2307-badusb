@@ -6,12 +6,19 @@ Original writeup: https://vivibit.net/psychson2307final-en/
 BN07V502TAW.BIN already changed offset values of 0x4D85, 0x4D86 to 00
 
 Made simple binaries for n00bz to try make your own badusb.
+
   1)DOWNLOAD REP0
+  
   2)INSTALL JAVA <--- https://www.java.com/en/download
+  
   3)WRITE YOUR PAYLOAD @ payload.txt <--- https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads
+  
   4)PUT YOUR DEVICE IN BOOT MODE (shorten two pins before connecting) <--- https://0x00sec.org/t/plug-in-to-win-diy-bad-usb-part-3-3/1159
+  
   5)RUN runbeforepayloadtxt.bat (edit "/drive=E" to your usb drive letter)
+  
   6)TELL YOUR BRO TO WATCH NEW pr0n FROM YOUR USB
+  
   
   
 My tested device TOSHIBA 32GB USB
