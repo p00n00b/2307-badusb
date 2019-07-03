@@ -1,7 +1,7 @@
 # 2307-badusb
 Make your own 2307 badusb
 
-Original writeup: https://vivibit.net/psychson2307final-en/
+Original writeup:  https://vivibit.net/psychson2307final-en/
 
 BN07V502TAW.BIN already changed offset values of 0x4D85, 0x4D86 to 00
 
